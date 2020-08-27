@@ -1,0 +1,41 @@
+.home-image {
+  height: 540px;
+  padding-right: 100px;
+  color: #ffffff;
+  font-size: 120px;
+  font-weight: bolder;
+  line-height: 540px;
+  text-align: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.home-wrap .view {
+  background-image: url('../../common/images/DSC_8709.jpg');
+}
+.home-wrap .pet {
+  background-image: url('../../common/images/DSC_5262.JPG');
+}
+.home-wrap .person {
+  background-image: url('../../common/images/DSC_6225-1.JPG');
+}
+.home-wrap .many {
+  background-image: url('../../common/images/车流3.jpg');
+}
+.home-wrap .welcome {
+  background-image: url('../../common/images/DSC_2516.jpg');
+}
+.home-text {
+  padding-top: 24px;
+  padding-bottom: 10px;
+  color: #364d79;
+  background-color: #ffffff;
+  font-size: 24px;
+  font-weight: bolder;
+  display: flex;
+  justify-content: space-around;
+}
+.home-text div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
